@@ -1,0 +1,14 @@
+{
+    "name": "kangyasin/makedatabase",
+    "description": "Make command generate database with php artisan.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kang yasin",
+            "email": "tutorialblogmarine@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
