@@ -15,7 +15,8 @@
     }
   },
   "require": {
-    "kangyasin/makedatabase": "1.0.0"
+    "kangyasin/makedatabase": "1.0.0",
+    "illuminate/support": "~5"
   },
   "minimum-stability": "dev"
 }
