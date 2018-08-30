@@ -8,5 +8,10 @@
       "name": "kang yasin",
       "email": "tutorialblogmarine@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "kangyasin\\makedatabase\\": "packages/kangyasin/makedatabase/src"
+    }
+  }
 }
