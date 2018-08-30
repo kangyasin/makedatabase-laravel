@@ -14,8 +14,5 @@
       "kangyasin\\makedatabase\\": "packages/kangyasin/makedatabase/src"
     }
   },
-  "require": {
-    "laravel/laravel": "5.6"
-  },
   "minimum-stability": "dev"
 }
