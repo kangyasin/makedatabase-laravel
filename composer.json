@@ -1,6 +1,7 @@
 {
   "name": "kangyasin/makedatabase",
   "description": "Make command generate database with php artisan.",
+  "type": "composer-plugin",
   "license": "MIT",
   "authors": [
     {
